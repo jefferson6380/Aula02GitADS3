@@ -1,4 +1,4 @@
-# Aula Guit Hub
+# Aula Git Hub
 Repositório criado para Exemplo na aula de Git da Unifaat
 
 Alteração efetuada na Máquina
